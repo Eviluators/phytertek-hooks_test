@@ -84,4 +84,4 @@ module.exports = {
   flatten
 };
 
-// Assignment Complete!
+// Assignment complete!
